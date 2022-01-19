@@ -27,3 +27,5 @@ Here on the summary page all data will be displayed, both the information you wr
             -You can always click on the home button on the header to be routed to your home page
             -You can always sign out by clicked on the sign out button on the header
             -As mentioned before you can search for the notes you have created via the searchbar when you are on the home page.
+            
+![homeScreen](https://i.imgur.com/juNQA13.png)
