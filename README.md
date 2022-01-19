@@ -1,6 +1,6 @@
 # DH2642-Exam-Routeplanner
 
-A "todo/task" app especially made for planning out/scheduling school stuff like tests etc. SL Api is used so you can search for journeys you need to make, for instance if you need to get to school etc.
+A "todo/task" app especially made for planning out/scheduling school stuff like tests etc. SL Api is used so you can search for journeys you need to make, for instance if you need to get to school etc. A weather api is also used and combined with the SL api, so the weather at the source and destination is shown
 
 We're using MVP, which clearly can be seen via the view and presenter folder.
 
@@ -27,5 +27,24 @@ Here on the summary page all data will be displayed, both the information you wr
             -You can always click on the home button on the header to be routed to your home page
             -You can always sign out by clicked on the sign out button on the header
             -As mentioned before you can search for the notes you have created via the searchbar when you are on the home page.
-            
+    
+    
+HomeScreen 
+![homeScreen](https://i.imgur.com/tBXLt2e.png)    
+    
+HomeScreen @media
 ![homeScreen](https://i.imgur.com/juNQA13.png)
+
+SummaryCardView
+![homeScreen](https://i.imgur.com/2f5wGBb.png)
+
+Card creator page
+![homeScreen](https://i.imgur.com/0XfYlyv.png)
+
+Sign up page
+![homeScreen](https://i.imgur.com/gtkIe3h.png)
+
+Sign in page
+![homeScreen](https://i.imgur.com/J6eR5CG.png)
+
+
