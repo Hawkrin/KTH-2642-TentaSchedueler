@@ -28,6 +28,7 @@ Here on the summary page all data will be displayed, both the information you wr
             -You can always sign out by clicked on the sign out button on the header
             -As mentioned before you can search for the notes you have created via the searchbar when you are on the home page.
     
+6. Technologies used: Firebase, React, Node, Heroku, CSS
     
 HomeScreen 
 ![homeScreen](https://i.imgur.com/tBXLt2e.png)    
