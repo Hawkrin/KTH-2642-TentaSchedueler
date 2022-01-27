@@ -1,6 +1,6 @@
 # DH2642-Exam-Routeplanner
 
-A "todo/task" app especially made for planning out/scheduling school stuff like tests etc. SL Api is used so you can search for journeys you need to make, for instance if you need to get to school etc. A weather api is also used and combined with the SL api, so the weather at the source and destination is shown
+A "todo/task" app which was made in the course "Interaction Programming and the Dynamic Web". The app was especially made for planning out/scheduling school stuff like tests etc. SL Api is used so you can search for journeys you need to make, for instance if you need to get to school etc. A weather api is also used and combined with the SL api, so the weather at the source and destination is shown
 
 We're using MVP, which clearly can be seen via the view and presenter folder.
 
